@@ -1,0 +1,2 @@
+class EventActorController < ApplicationController
+end
